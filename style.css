@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-     background: linear-gradient(135deg, #0582ca, #006494, #003554);
+    background: linear-gradient(to right top, #ff2cdf, #df03e6, #b800ee, #8400f7, #0014ff);
 }
 .container{
     max-width: 650px;
@@ -80,7 +80,7 @@ input{
     background: white;
 }
 .button button:hover{
-    background: #003554;
+    background:#470382;
     color: white;
     transform: scale(1.1);
 }
